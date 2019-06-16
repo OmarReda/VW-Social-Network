@@ -1,6 +1,8 @@
+
 # VW-Social-Network
 
 This is a social network for our database class.
+
 
 
 # Social-Network
@@ -10,6 +12,7 @@ Social media websites are not necessarily about meeting new people online, altho
 Instead, they are primarily about connecting with friends, family and acquaintances you already have in real
 life. The most well-known social media sites are Facebook, Twitter and Google+.
 You can share photos, information and news through social networking web site.
+
 
 
 ## The Project Five Stages 
@@ -23,6 +26,7 @@ You can share photos, information and news through social networking web site.
 4- Posting data.
 
 5- Home and Profile screen.
+
 
 
 ## Built With
