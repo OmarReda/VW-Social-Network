@@ -1,18 +1,11 @@
 
-# VW-Social-Network
-
-This is a social network for our database class.
-
-
-
 # Social-Network
 
-Social networking web based application that involves the use of the internet to connect users with their friends, family and acquaintances.
+social networking web based application that involves the use of the internet to connect users with their friends, family and acquaintances.
 Social media websites are not necessarily about meeting new people online, although this does happen.
 Instead, they are primarily about connecting with friends, family and acquaintances you already have in real
 life. The most well-known social media sites are Facebook, Twitter and Google+.
 You can share photos, information and news through social networking web site.
-
 
 
 ## The Project Five Stages 
@@ -28,14 +21,14 @@ You can share photos, information and news through social networking web site.
 5- Home and Profile screen.
 
 
-
 ## Built With
 
-* PHP - PhpMyAdmin - Appserv
+* PHP - PhpMyAdmin - Xampp
 
 * HTML - CSS - Bootstrap - Javascript  
 
-* MySQL - AJAX
+* MySQL 
 
 
+## Samples
 
