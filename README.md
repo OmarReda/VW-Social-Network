@@ -20,6 +20,8 @@ You can share photos, information and news through social networking web site.
 
 5- Home and Profile screen.
 
+6-Settings (Not Completed)
+
 
 ## Built With
 
@@ -29,6 +31,4 @@ You can share photos, information and news through social networking web site.
 
 * MySQL 
 
-
-## Samples
 
