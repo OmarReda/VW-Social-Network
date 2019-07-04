@@ -20,7 +20,7 @@ You can share photos, information and news through social networking web site.
 
 5- Home and Profile screen.
 
-6-Settings (Not Completed)
+6-Settings
 
 
 ## Built With
@@ -30,5 +30,12 @@ You can share photos, information and news through social networking web site.
 * HTML - CSS - Bootstrap - Javascript  
 
 * MySQL 
+
+
+## Notes
+
+* Settings (Not Completed)
+
+* Forget Username or Password (Not Completed)
 
 
